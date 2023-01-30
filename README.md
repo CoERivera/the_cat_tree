@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sample website project built by me during.</p>
+<p align="left">Sample website design project built by me.</p>
 
 ###
 
